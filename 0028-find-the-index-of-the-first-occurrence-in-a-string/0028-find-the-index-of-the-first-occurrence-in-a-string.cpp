@@ -3,7 +3,7 @@ public:
     int strStr(string haystack, string needle) {
         int m=needle.length();
         int n=haystack.length();
-        for(int i=0;i<n-m;i++){
+        for(int i=0;i<=n-m;i++){
             int j=0;
             while(j<m && haystack[i+j]==needle[j]){
                 j++;
