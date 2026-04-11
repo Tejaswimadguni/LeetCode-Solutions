@@ -141,5 +141,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0577-employee-bonus](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0577-employee-bonus/) | Easy |
 | [0584-find-customer-referee](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0584-find-customer-referee/) | Easy |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
+| [0596-classes-with-at-least-5-students](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0620-not-boring-movies](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0620-not-boring-movies/) | Easy |
 <!---LeetCode Topics End-->
