@@ -147,4 +147,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0620-not-boring-movies](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0620-not-boring-movies/) | Easy |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1193-monthly-transactions-i](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1193-monthly-transactions-i/) | Medium |
+| [1280-students-and-examinations](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1280-students-and-examinations/) | Easy |
 <!---LeetCode Topics End-->
