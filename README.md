@@ -150,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0184-department-highest-salary](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0184-department-highest-salary/) | Medium |
 | [0185-department-top-three-salaries](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0185-department-top-three-salaries/) | Hard |
 | [0196-delete-duplicate-emails](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0196-delete-duplicate-emails/) | Easy |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0577-employee-bonus](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0577-employee-bonus/) | Easy |
 | [0584-find-customer-referee](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0584-find-customer-referee/) | Easy |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
