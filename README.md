@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0055-jump-game/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0118-pascals-triangle](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0136-single-number](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -137,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0704-binary-search](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -173,4 +175,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 <!---LeetCode Topics End-->
