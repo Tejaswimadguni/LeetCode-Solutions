@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [1748-sum-of-unique-elements](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2404-most-frequent-even-element/) | Easy |
+| [2833-furthest-point-from-origin](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [2833-furthest-point-from-origin](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
