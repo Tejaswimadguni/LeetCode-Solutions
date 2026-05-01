@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0240-search-a-2d-matrix-ii](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0414-third-maximum-number](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0414-third-maximum-number/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0500-keyboard-row](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0500-keyboard-row/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0566-reshape-the-matrix/) | Easy |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0414-third-maximum-number](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0414-third-maximum-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 ## Counting
