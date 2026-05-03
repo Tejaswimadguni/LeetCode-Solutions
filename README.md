@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0162-find-peak-element](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0162-find-peak-element/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0204-count-primes](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0204-count-primes/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -114,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0075-sort-colors](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0443-string-compression](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
@@ -199,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0162-find-peak-element](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0162-find-peak-element/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0704-binary-search](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
