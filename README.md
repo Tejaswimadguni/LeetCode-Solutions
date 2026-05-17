@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0204-count-primes](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0204-count-primes/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0228-summary-ranges](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0228-summary-ranges/) | Easy |
 | [0229-majority-element-ii](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
@@ -67,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -222,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0567-permutation-in-string](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [1652-defuse-the-bomb](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1652-defuse-the-bomb/) | Easy |
 ## Database
