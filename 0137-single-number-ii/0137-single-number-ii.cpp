@@ -1,13 +1,19 @@
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-        unordered_map<int,int>ans;
-        for(int i:nums){
-            ans[i]++;
+        int ans = 0;
+        for(int bit = 0; bit < 32; bit++) {
+            int count = 0;
+            for(int x : nums) {
+
+                if(x & (1 << bit)) {
+                    count++;
+                }
+            }
+            if(count % 3) {
+                ans |= (1 << bit);
+            }
         }
-        for(auto &i:ans){
-            if(i.second==1)return i.first;
-        }
-        return 0;
+        return ans;
     }
 };
