@@ -5,7 +5,6 @@ public:
         for(int bit = 0; bit < 32; bit++) {
             int count = 0;
             for(int x : nums) {
-
                 if(x & (1 << bit)) {
                     count++;
                 }
