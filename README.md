@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [2575-find-the-divisibility-array-of-a-string](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2575-find-the-divisibility-array-of-a-string/) | Medium |
 | [2615-sum-of-distances](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2615-sum-of-distances/) | Medium |
 | [2733-neither-minimum-nor-maximum](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 | [3452-sum-of-good-numbers](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3452-sum-of-good-numbers/) | Easy |
@@ -147,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [2575-find-the-divisibility-array-of-a-string](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2575-find-the-divisibility-array-of-a-string/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3889-mirror-frequency-distance](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3889-mirror-frequency-distance/) | Medium |
 ## String Matching
@@ -163,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
+| [2575-find-the-divisibility-array-of-a-string](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2575-find-the-divisibility-array-of-a-string/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
