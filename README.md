@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2540-minimum-common-value/) | Easy |
+| [2574-left-and-right-sum-differences](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2615-sum-of-distances](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2615-sum-of-distances/) | Medium |
 | [2733-neither-minimum-nor-maximum](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 | [3452-sum-of-good-numbers](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3452-sum-of-good-numbers/) | Easy |
@@ -213,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
+| [2574-left-and-right-sum-differences](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2615-sum-of-distances](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2615-sum-of-distances/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
