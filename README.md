@@ -169,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
+| [0050-powx-n](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0050-powx-n/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0204-count-primes](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0204-count-primes/) | Medium |
 | [0268-missing-number](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
@@ -329,4 +330,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0050-powx-n](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0050-powx-n/) | Medium |
 <!---LeetCode Topics End-->
