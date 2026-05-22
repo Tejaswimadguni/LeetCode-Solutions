@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0566-reshape-the-matrix](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0704-binary-search](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
+| [0724-find-pivot-index](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0867-transpose-matrix](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0867-transpose-matrix/) | Easy |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
@@ -228,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0724-find-pivot-index](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2615-sum-of-distances](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2615-sum-of-distances/) | Medium |
 ## Binary Search
