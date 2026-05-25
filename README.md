@@ -344,6 +344,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0024-swap-nodes-in-pairs](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0050-powx-n](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0050-powx-n/) | Medium |
+| [0206-reverse-linked-list](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -352,4 +353,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0024-swap-nodes-in-pairs](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0061-rotate-list](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0061-rotate-list/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0206-reverse-linked-list](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
