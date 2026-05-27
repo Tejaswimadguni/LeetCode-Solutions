@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2615-sum-of-distances](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2615-sum-of-distances/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
@@ -173,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2833-furthest-point-from-origin](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3889-mirror-frequency-distance](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3889-mirror-frequency-distance/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
