@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [1390-four-divisors](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1390-four-divisors/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1652-defuse-the-bomb](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
@@ -193,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
+| [1390-four-divisors](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1390-four-divisors/) | Medium |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2575-find-the-divisibility-array-of-a-string/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Dynamic Programming
