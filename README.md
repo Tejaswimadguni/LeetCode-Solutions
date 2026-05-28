@@ -164,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0443-string-compression](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0443-string-compression/) | Medium |
@@ -238,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
