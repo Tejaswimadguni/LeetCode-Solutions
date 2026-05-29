@@ -173,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2575-find-the-divisibility-array-of-a-string/) | Medium |
@@ -236,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0566-reshape-the-matrix](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0867-transpose-matrix](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0867-transpose-matrix/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3701-compute-alternating-sum/) | Easy |
 ## Stack
