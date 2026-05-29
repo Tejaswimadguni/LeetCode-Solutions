@@ -196,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0204-count-primes](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0204-count-primes/) | Medium |
+| [0258-add-digits](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
@@ -234,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0258-add-digits](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0258-add-digits/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0867-transpose-matrix](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0867-transpose-matrix/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
@@ -335,6 +337,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0204-count-primes/) | Medium |
+| [0258-add-digits](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0258-add-digits/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
