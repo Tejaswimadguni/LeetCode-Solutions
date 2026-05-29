@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2778-sum-of-squares-of-special-elements](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3452-sum-of-good-numbers](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3452-sum-of-good-numbers/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -200,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1232-check-if-it-is-a-straight-line](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1390-four-divisors](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1390-four-divisors/) | Medium |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2575-find-the-divisibility-array-of-a-string/) | Medium |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
