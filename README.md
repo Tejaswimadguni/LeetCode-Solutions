@@ -211,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0326-power-of-three](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0342-power-of-four/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0367-valid-perfect-square/) | Easy |
+| [0371-sum-of-two-integers](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0415-add-strings](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0415-add-strings/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0633-sum-of-square-numbers/) | Medium |
@@ -248,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0260-single-number-iii](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0342-power-of-four/) | Easy |
+| [0371-sum-of-two-integers](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0371-sum-of-two-integers/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
