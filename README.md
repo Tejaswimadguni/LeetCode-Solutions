@@ -207,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0258-add-digits](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0326-power-of-three](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0326-power-of-three/) | Easy |
+| [0342-power-of-four](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0342-power-of-four/) | Easy |
 | [0415-add-strings](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0415-add-strings/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
@@ -237,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0137-single-number-ii](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0137-single-number-ii/) | Medium |
 | [0260-single-number-iii](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
+| [0342-power-of-four](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0342-power-of-four/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -392,6 +394,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0206-reverse-linked-list](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0326-power-of-three](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0326-power-of-three/) | Easy |
+| [0342-power-of-four](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0342-power-of-four/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
