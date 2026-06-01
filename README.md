@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1848-minimum-distance-to-the-target-element](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0414-third-maximum-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2580-count-ways-to-group-overlapping-ranges](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2580-count-ways-to-group-overlapping-ranges/) | Medium |
 | [2733-neither-minimum-nor-maximum](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
@@ -225,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0055-jump-game](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0055-jump-game/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
