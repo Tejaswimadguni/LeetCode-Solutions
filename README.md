@@ -213,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0342-power-of-four](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0342-power-of-four/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0371-sum-of-two-integers/) | Medium |
+| [0390-elimination-game](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0390-elimination-game/) | Medium |
 | [0415-add-strings](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0415-add-strings/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0633-sum-of-square-numbers/) | Medium |
@@ -417,6 +418,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0326-power-of-three](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0342-power-of-four/) | Easy |
+| [0390-elimination-game](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0390-elimination-game/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
