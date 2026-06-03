@@ -228,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2413-smallest-even-multiple](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2469-convert-the-temperature](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2469-convert-the-temperature/) | Easy |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2481-minimum-cuts-to-divide-a-circle/) | Easy |
+| [2525-categorize-box-according-to-criteria](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2525-categorize-box-according-to-criteria/) | Easy |
 | [2544-alternating-digit-sum](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2544-alternating-digit-sum/) | Easy |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2575-find-the-divisibility-array-of-a-string/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
