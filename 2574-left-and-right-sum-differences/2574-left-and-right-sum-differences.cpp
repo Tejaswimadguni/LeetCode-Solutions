@@ -2,7 +2,7 @@ class Solution {
 public:
     vector<int> leftRightDifference(vector<int>& nums) {
         int n=nums.size();
-        vector<int>ans(n);
+       vector<int>ans;
        int right=0;
        for(int i:nums){
         right+=i;
@@ -11,9 +11,10 @@ public:
        int left=0;
        for(int i=0;i<n;i++){
         right-=nums[i];
-        ans[i]=abs(left-right);
+        int dif=abs(left-right);
+        ans.push_back(dif);
         left+=nums[i];
        }
-       return ans;
+      return ans;
     }
 };
