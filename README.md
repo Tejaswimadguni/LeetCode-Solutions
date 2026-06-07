@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2347-best-poker-hand](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2347-best-poker-hand/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2404-most-frequent-even-element/) | Easy |
@@ -109,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1748-sum-of-unique-elements](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2347-best-poker-hand](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2347-best-poker-hand/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2404-most-frequent-even-element/) | Easy |
@@ -489,4 +491,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1195-fizz-buzz-multithreaded](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1195-fizz-buzz-multithreaded/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 <!---LeetCode Topics End-->
