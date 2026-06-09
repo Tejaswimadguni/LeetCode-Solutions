@@ -199,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0043-multiply-strings](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0043-multiply-strings/) | Medium |
 | [0058-length-of-last-word](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0058-length-of-last-word/) | Easy |
+| [0067-add-binary](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0067-add-binary/) | Easy |
 | [0257-binary-tree-paths](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0412-fizz-buzz](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0415-add-strings/) | Easy |
@@ -231,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0066-plus-one/) | Easy |
+| [0067-add-binary](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0067-add-binary/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0204-count-primes](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0204-count-primes/) | Medium |
 | [0258-add-digits](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0258-add-digits/) | Easy |
@@ -282,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0067-add-binary/) | Easy |
 | [0136-single-number](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0137-single-number-ii/) | Medium |
 | [0260-single-number-iii](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0260-single-number-iii/) | Medium |
@@ -301,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0043-multiply-strings](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0043-multiply-strings/) | Medium |
 | [0054-spiral-matrix](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0067-add-binary](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0067-add-binary/) | Easy |
 | [0258-add-digits](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0415-add-strings/) | Easy |
