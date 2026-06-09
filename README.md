@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3452-sum-of-good-numbers](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3452-sum-of-good-numbers/) | Easy |
+| [3606-coupon-code-validator](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3606-coupon-code-validator/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3701-compute-alternating-sum](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3120-count-the-number-of-special-characters-i](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
+| [3606-coupon-code-validator](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3606-coupon-code-validator/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3889-mirror-frequency-distance](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3889-mirror-frequency-distance/) | Medium |
@@ -154,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2580-count-ways-to-group-overlapping-ranges](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2580-count-ways-to-group-overlapping-ranges/) | Medium |
 | [2733-neither-minimum-nor-maximum](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
+| [3606-coupon-code-validator](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3606-coupon-code-validator/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -220,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3120-count-the-number-of-special-characters-i](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
+| [3606-coupon-code-validator](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3606-coupon-code-validator/) | Easy |
 | [3889-mirror-frequency-distance](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3889-mirror-frequency-distance/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
