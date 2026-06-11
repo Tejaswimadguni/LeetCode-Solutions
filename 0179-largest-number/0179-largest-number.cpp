@@ -7,14 +7,11 @@ public:
    
     string largestNumber(vector<int>& nums) {
         vector<string>str;
-          int cnt=0;
-          
         for(int i:nums){
-            if(i==0)cnt++;
             str.push_back(to_string(i));
         }
-        if(cnt==nums.size())return "0";
         sort(str.begin(),str.end(),cmp);
+         if(str[0]=="0")return "0";
         string ans;
       
         
