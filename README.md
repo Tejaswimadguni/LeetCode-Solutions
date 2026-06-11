@@ -270,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2544-alternating-digit-sum](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2544-alternating-digit-sum/) | Easy |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2575-find-the-divisibility-array-of-a-string/) | Medium |
 | [2614-prime-in-diagonal](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2614-prime-in-diagonal/) | Easy |
+| [2769-find-the-maximum-achievable-number](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
