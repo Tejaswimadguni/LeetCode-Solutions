@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0414-third-maximum-number](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0414-third-maximum-number/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0500-keyboard-row](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0500-keyboard-row/) | Easy |
+| [0540-single-element-in-a-sorted-array](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0704-binary-search](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
@@ -392,6 +393,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0367-valid-perfect-square/) | Easy |
+| [0540-single-element-in-a-sorted-array](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0704-binary-search](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
