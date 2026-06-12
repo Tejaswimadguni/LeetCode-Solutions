@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2149-rearrange-array-elements-by-sign](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2347-best-poker-hand](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2347-best-poker-hand/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2404-most-frequent-even-element/) | Easy |
@@ -273,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1952-three-divisors](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1952-three-divisors/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2165-smallest-value-of-the-rearranged-number/) | Medium |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2413-smallest-even-multiple](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2469-convert-the-temperature](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2469-convert-the-temperature/) | Easy |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2481-minimum-cuts-to-divide-a-circle/) | Easy |
@@ -339,6 +341,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
@@ -457,6 +460,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0258-add-digits](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0258-add-digits/) | Easy |
 | [1952-three-divisors](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1952-three-divisors/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2413-smallest-even-multiple](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2614-prime-in-diagonal](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2614-prime-in-diagonal/) | Easy |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
@@ -536,6 +540,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 ## Concurrency
 | Problem Name | Difficulty |
