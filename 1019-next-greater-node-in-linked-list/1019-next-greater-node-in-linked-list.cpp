@@ -12,22 +12,24 @@ class Solution {
 public:
     vector<int> nextLargerNodes(ListNode* head) {
         ListNode* temp=head;
-        ListNode* dummy=nullptr;
-        vector<int>ans;
-        while(temp){
-            dummy=temp;
-            bool valid=false;
-            while(dummy){
-                if(dummy->val>temp->val){
-                    ans.push_back(dummy->val);
-                    valid=true;
-                    break;
-                }
-                dummy=dummy->next;
+        vector<int>arr;
+        stack<int>st;
+       while(temp){
+        arr.push_back(temp->val);
+        temp=temp->next;
+       }
+       int n=arr.size();
+       vector<int>ans(n,0);
+
+    for (int i = 0; i < n; i++) {
+
+            while (!st.empty() && arr[st.top()] < arr[i]) {
+                ans[st.top()] = arr[i];
+                st.pop();
             }
-            if(!valid)ans.push_back(0);
-            temp=temp->next;
+
+            st.push(i);
         }
-        return ans;
-    }
+    return ans;
+    }     
 };
