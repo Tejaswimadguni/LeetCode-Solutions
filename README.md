@@ -269,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0390-elimination-game](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0390-elimination-game/) | Medium |
 | [0412-fizz-buzz](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0415-add-strings/) | Easy |
+| [0509-fibonacci-number](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0989-add-to-array-form-of-integer](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
@@ -301,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0055-jump-game/) | Medium |
 | [0118-pascals-triangle](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0120-triangle](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0120-triangle/) | Medium |
+| [0509-fibonacci-number](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -516,6 +518,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0326-power-of-three](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0342-power-of-four/) | Easy |
 | [0390-elimination-game](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0390-elimination-game/) | Medium |
+| [0509-fibonacci-number](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -577,4 +580,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0257-binary-tree-paths](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0257-binary-tree-paths/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
