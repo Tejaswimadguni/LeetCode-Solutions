@@ -129,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2347-best-poker-hand](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2347-best-poker-hand/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2404-most-frequent-even-element/) | Easy |
+| [2516-take-k-of-each-character-from-left-and-right](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2516-take-k-of-each-character-from-left-and-right/) | Medium |
 | [2540-minimum-common-value](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [2615-sum-of-distances](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2615-sum-of-distances/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
@@ -233,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [2516-take-k-of-each-character-from-left-and-right](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2516-take-k-of-each-character-from-left-and-right/) | Medium |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2575-find-the-divisibility-array-of-a-string/) | Medium |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2833-furthest-point-from-origin/) | Easy |
@@ -409,6 +411,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0567-permutation-in-string](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [1652-defuse-the-bomb](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1652-defuse-the-bomb/) | Easy |
+| [2516-take-k-of-each-character-from-left-and-right](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2516-take-k-of-each-character-from-left-and-right/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
