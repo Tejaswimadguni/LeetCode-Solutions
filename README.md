@@ -244,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 | [3606-coupon-code-validator](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3606-coupon-code-validator/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
+| [3614-process-string-with-special-operations-ii](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3798-largest-even-number](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3798-largest-even-number/) | Easy |
 | [3889-mirror-frequency-distance](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3889-mirror-frequency-distance/) | Medium |
 ## String Matching
@@ -357,6 +358,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2553-separate-the-digits-in-an-array](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
+| [3614-process-string-with-special-operations-ii](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3819-rotate-non-negative-elements](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3819-rotate-non-negative-elements/) | Medium |
