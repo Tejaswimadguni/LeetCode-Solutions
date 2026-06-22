@@ -517,6 +517,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0112-path-sum](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0112-path-sum/) | Easy |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0257-binary-tree-paths/) | Easy |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
@@ -600,6 +601,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+| [0112-path-sum](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0112-path-sum/) | Easy |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0257-binary-tree-paths/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
@@ -607,6 +609,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+| [0112-path-sum](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0112-path-sum/) | Easy |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0257-binary-tree-paths/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
@@ -630,4 +633,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0112-path-sum](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0112-path-sum/) | Easy |
 <!---LeetCode Topics End-->
