@@ -130,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1171-remove-zero-sum-consecutive-nodes-from-linked-list/) | Medium |
+| [1189-maximum-number-of-balloons](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1796-second-largest-digit-in-a-string](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
@@ -186,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [1189-maximum-number-of-balloons](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2347-best-poker-hand](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2347-best-poker-hand/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2404-most-frequent-even-element/) | Easy |
@@ -243,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0500-keyboard-row](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0500-keyboard-row/) | Easy |
 | [0567-permutation-in-string](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1796-second-largest-digit-in-a-string](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
