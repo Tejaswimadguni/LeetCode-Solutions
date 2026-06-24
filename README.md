@@ -238,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0168-excel-sheet-column-title](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0179-largest-number](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0179-largest-number/) | Medium |
+| [0224-basic-calculator](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0224-basic-calculator/) | Hard |
 | [0257-binary-tree-paths](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0389-find-the-difference](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0389-find-the-difference/) | Easy |
@@ -285,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0168-excel-sheet-column-title](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0204-count-primes](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0204-count-primes/) | Medium |
+| [0224-basic-calculator](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0224-basic-calculator/) | Hard |
 | [0258-add-digits](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0326-power-of-three](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0326-power-of-three/) | Easy |
@@ -400,6 +402,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0143-reorder-list](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0143-reorder-list/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0224-basic-calculator](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0224-basic-calculator/) | Hard |
 | [0234-palindrome-linked-list](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
@@ -555,6 +558,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0143-reorder-list](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0143-reorder-list/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
+| [0224-basic-calculator](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0224-basic-calculator/) | Hard |
 | [0234-palindrome-linked-list](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0326-power-of-three](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0342-power-of-four/) | Easy |
