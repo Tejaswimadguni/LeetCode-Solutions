@@ -163,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0148-sort-list](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
+| [0190-reverse-bits](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0190-reverse-bits/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -373,6 +374,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0067-add-binary/) | Easy |
 | [0136-single-number](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0137-single-number-ii/) | Medium |
+| [0190-reverse-bits](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0190-reverse-bits/) | Easy |
 | [0260-single-number-iii](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
