@@ -267,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0443-string-compression](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0443-string-compression/) | Medium |
 | [0500-keyboard-row](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0500-keyboard-row/) | Easy |
 | [0567-permutation-in-string](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0567-permutation-in-string/) | Medium |
+| [0984-string-without-aaa-or-bbb](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0984-string-without-aaa-or-bbb/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1796-second-largest-digit-in-a-string](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
@@ -366,6 +367,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0055-jump-game/) | Medium |
 | [0179-largest-number](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0179-largest-number/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [0984-string-without-aaa-or-bbb](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0984-string-without-aaa-or-bbb/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
