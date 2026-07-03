@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
+| [0090-subsets-ii](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0118-pascals-triangle](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0120-triangle](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0120-triangle/) | Medium |
 | [0136-single-number](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
@@ -392,6 +393,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0067-add-binary/) | Easy |
 | [0078-subsets](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
+| [0090-subsets-ii](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0137-single-number-ii/) | Medium |
 | [0190-reverse-bits](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0190-reverse-bits/) | Easy |
@@ -690,6 +692,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0078-subsets](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
+| [0090-subsets-ii](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0257-binary-tree-paths/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
