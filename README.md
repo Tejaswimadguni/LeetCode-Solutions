@@ -109,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3452-sum-of-good-numbers](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3452-sum-of-good-numbers/) | Easy |
 | [3606-coupon-code-validator](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3606-coupon-code-validator/) | Easy |
+| [3620-network-recovery-pathways](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3701-compute-alternating-sum](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3701-compute-alternating-sum/) | Easy |
@@ -364,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0118-pascals-triangle](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0120-triangle](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0120-triangle/) | Medium |
 | [0509-fibonacci-number](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
+| [3620-network-recovery-pathways](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
@@ -406,6 +408,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -493,6 +496,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2540-minimum-common-value](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -703,4 +707,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3620-network-recovery-pathways](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3620-network-recovery-pathways/) | Hard |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3620-network-recovery-pathways](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3620-network-recovery-pathways/) | Hard |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3620-network-recovery-pathways](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3620-network-recovery-pathways/) | Hard |
 <!---LeetCode Topics End-->
