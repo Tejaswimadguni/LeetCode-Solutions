@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0989-add-to-array-form-of-integer](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1019-next-greater-node-in-linked-list](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
+| [1301-number-of-paths-with-max-score](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1390-four-divisors](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1390-four-divisors/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
@@ -370,6 +371,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0118-pascals-triangle](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0120-triangle](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0120-triangle/) | Medium |
 | [0509-fibonacci-number](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
+| [1301-number-of-paths-with-max-score](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
@@ -553,6 +555,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0240-search-a-2d-matrix-ii](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0867-transpose-matrix](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0867-transpose-matrix/) | Easy |
+| [1301-number-of-paths-with-max-score](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [2614-prime-in-diagonal](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2614-prime-in-diagonal/) | Easy |
