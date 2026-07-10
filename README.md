@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0036-valid-sudoku/) | Medium |
 | [0041-first-missing-positive](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0046-permutations](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0048-rotate-image](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0055-jump-game/) | Medium |
@@ -191,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0015-3sum](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0018-4sum/) | Medium |
+| [0047-permutations-ii](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0056-merge-intervals](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0147-insertion-sort-list](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0147-insertion-sort-list/) | Medium |
@@ -715,6 +717,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0046-permutations](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0078-subsets](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0257-binary-tree-paths/) | Easy |
