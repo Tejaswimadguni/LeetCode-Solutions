@@ -114,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3179-find-the-n-th-value-after-k-seconds](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3179-find-the-n-th-value-after-k-seconds/) | Medium |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3452-sum-of-good-numbers](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3452-sum-of-good-numbers/) | Easy |
@@ -382,6 +383,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2614-prime-in-diagonal](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
+| [3179-find-the-n-th-value-after-k-seconds](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3179-find-the-n-th-value-after-k-seconds/) | Medium |
 | [3270-find-the-key-of-the-numbers](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3270-find-the-key-of-the-numbers/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
@@ -472,6 +474,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2293-min-max-game](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2293-min-max-game/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [3179-find-the-n-th-value-after-k-seconds](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3179-find-the-n-th-value-after-k-seconds/) | Medium |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
@@ -510,6 +513,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1732-find-the-highest-altitude](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2615-sum-of-distances](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2615-sum-of-distances/) | Medium |
+| [3179-find-the-n-th-value-after-k-seconds](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3179-find-the-n-th-value-after-k-seconds/) | Medium |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -711,6 +715,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
+| [3179-find-the-n-th-value-after-k-seconds](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3179-find-the-n-th-value-after-k-seconds/) | Medium |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 ## Concurrency
 | Problem Name | Difficulty |
