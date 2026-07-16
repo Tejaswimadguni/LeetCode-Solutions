@@ -129,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3819-rotate-non-negative-elements](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3819-rotate-non-negative-elements/) | Medium |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -223,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2733-neither-minimum-nor-maximum](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3606-coupon-code-validator](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3606-coupon-code-validator/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -274,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2161-partition-array-according-to-given-pivot](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2540-minimum-common-value](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -385,6 +388,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -471,6 +475,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3819-rotate-non-negative-elements](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3819-rotate-non-negative-elements/) | Medium |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -609,6 +614,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2614-prime-in-diagonal](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2614-prime-in-diagonal/) | Easy |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
