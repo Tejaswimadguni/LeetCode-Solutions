@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1390-four-divisors](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1390-four-divisors/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1534-count-good-triplets](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1534-count-good-triplets/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1652-defuse-the-bomb](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
@@ -659,6 +660,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0204-count-primes](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0204-count-primes/) | Medium |
 | [1291-sequential-digits](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1291-sequential-digits/) | Medium |
+| [1534-count-good-triplets](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1534-count-good-triplets/) | Easy |
 | [1952-three-divisors](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1952-three-divisors/) | Easy |
 | [1995-count-special-quadruplets](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1995-count-special-quadruplets/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
