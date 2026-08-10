@@ -407,6 +407,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1399-count-largest-group](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1399-count-largest-group/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1840-maximum-building-height](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1840-maximum-building-height/) | Hard |
+| [1925-count-square-sum-triples](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1925-count-square-sum-triples/) | Easy |
 | [1952-three-divisors](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1952-three-divisors/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2119-a-number-after-a-double-reversal](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
@@ -664,6 +665,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0204-count-primes](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0204-count-primes/) | Medium |
 | [1291-sequential-digits](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1291-sequential-digits/) | Medium |
 | [1534-count-good-triplets](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1534-count-good-triplets/) | Easy |
+| [1925-count-square-sum-triples](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1925-count-square-sum-triples/) | Easy |
 | [1952-three-divisors](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1952-three-divisors/) | Easy |
 | [1995-count-special-quadruplets](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1995-count-special-quadruplets/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
