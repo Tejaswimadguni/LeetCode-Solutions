@@ -122,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2733-neither-minimum-nor-maximum](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [2908-minimum-sum-of-mountain-triplets-i](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2908-minimum-sum-of-mountain-triplets-i/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3179-find-the-n-th-value-after-k-seconds/) | Medium |
