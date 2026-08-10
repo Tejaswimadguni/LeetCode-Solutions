@@ -105,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2293-min-max-game](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2293-min-max-game/) | Easy |
 | [2347-best-poker-hand](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2347-best-poker-hand/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
+| [2367-number-of-arithmetic-triplets](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2475-number-of-unequal-triplets-in-array/) | Easy |
@@ -179,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2196-create-binary-tree-from-descriptions](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2347-best-poker-hand](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2347-best-poker-hand/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
+| [2367-number-of-arithmetic-triplets](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2475-number-of-unequal-triplets-in-array/) | Easy |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2516-take-k-of-each-character-from-left-and-right/) | Medium |
@@ -307,6 +309,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2367-number-of-arithmetic-triplets](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2540-minimum-common-value](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -668,6 +671,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1925-count-square-sum-triples](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1925-count-square-sum-triples/) | Easy |
 | [1952-three-divisors](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1952-three-divisors/) | Easy |
 | [1995-count-special-quadruplets](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1995-count-special-quadruplets/) | Easy |
+| [2367-number-of-arithmetic-triplets](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
