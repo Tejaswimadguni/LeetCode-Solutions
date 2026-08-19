@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1301-number-of-paths-with-max-score](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1390-four-divisors](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1390-four-divisors/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1534-count-good-triplets](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1534-count-good-triplets/) | Easy |
@@ -178,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1189-maximum-number-of-balloons](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1399-count-largest-group](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1399-count-largest-group/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1796-second-largest-digit-in-a-string](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
@@ -477,6 +479,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0316-remove-duplicate-letters](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0984-string-without-aaa-or-bbb](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0984-string-without-aaa-or-bbb/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
@@ -504,6 +507,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0461-hamming-distance](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0461-hamming-distance/) | Easy |
 | [0693-binary-number-with-alternating-bits](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0693-binary-number-with-alternating-bits/) | Easy |
 | [0784-letter-case-permutation](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0784-letter-case-permutation/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
