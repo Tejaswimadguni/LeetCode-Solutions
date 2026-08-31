@@ -18,13 +18,18 @@ public:
 
         vector<int>nums;
         int i=2;
+        int first = -1;
+        int last = -1;
+        int minDist = INT_MAX;
         while(temp &&  temp->next){
             if((temp->val<temp->next->val && temp->val<prev->val) ||(temp->val>temp->next->val && temp->val>prev->val) ){
-                nums.push_back(i);
-                prev=prev->next;
-                temp=temp->next;
-                i++;
-                continue;
+                if(first==-1){
+                    first=i;
+                }else{
+                    minDist=min(minDist,i-last);
+                }
+
+                last=i;
             }
             i++;
             prev=prev->next;
@@ -32,16 +37,10 @@ public:
 
         }
 
-        sort(nums.begin(),nums.end());
-        int n=nums.size();
-        if(n<2)return{-1,-1};
-        int maxx=nums[n-1]-nums[0];
-        int minn = INT_MAX;
+            if(first==last)return {-1,-1};
 
-        for(int j = 1; j < n; j++) {
-             minn = min(minn, nums[j] - nums[j-1]);
-        }       
-
-        return{minn,maxx};
+            int maxx=last-first;
+            return {minDist,maxx};
+        
     }
 };
