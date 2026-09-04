@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0704-binary-search](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [0817-linked-list-components](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0817-linked-list-components/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0867-transpose-matrix](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0867-transpose-matrix/) | Easy |
 | [0877-stone-game](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0877-stone-game/) | Medium |
@@ -180,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0500-keyboard-row](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0500-keyboard-row/) | Easy |
 | [0567-permutation-in-string](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0567-permutation-in-string/) | Medium |
+| [0817-linked-list-components](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0817-linked-list-components/) | Medium |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1171-remove-zero-sum-consecutive-nodes-from-linked-list/) | Medium |
@@ -816,6 +818,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0328-odd-even-linked-list](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0725-split-linked-list-in-parts](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0725-split-linked-list-in-parts/) | Medium |
+| [0817-linked-list-components](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0817-linked-list-components/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1019-next-greater-node-in-linked-list](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1171-remove-zero-sum-consecutive-nodes-from-linked-list/) | Medium |
