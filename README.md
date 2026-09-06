@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1386-cinema-seat-allocation](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1390-four-divisors](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1390-four-divisors/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1534-count-good-triplets](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1534-count-good-triplets/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1652-defuse-the-bomb](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1652-defuse-the-bomb/) | Easy |
@@ -594,6 +595,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
@@ -604,6 +606,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
