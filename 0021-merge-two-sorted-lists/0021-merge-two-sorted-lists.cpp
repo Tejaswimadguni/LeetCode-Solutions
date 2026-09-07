@@ -9,31 +9,50 @@
  * };
  */
 class Solution {
+
+private:
+ListNode* solve(ListNode* list1, ListNode* list2){
+
+    ListNode* curr1=list1;
+    ListNode* curr2=list2;
+    ListNode* next1=curr1->next;
+    ListNode* next2=curr2->next;
+    
+    while(curr2 ){
+        if(next1 && curr2->val>=curr1->val && curr2->val<next1->val){
+            curr1->next=curr2;
+            curr2->next=next1;
+            
+            curr1=curr2;
+            curr2=next2;
+             next2 = curr2 ? curr2->next : NULL;
+        }else{
+            
+            if(next1==NULL){
+                curr1->next=curr2;
+
+                return list1;
+            }
+            curr1=next1;
+            next1=next1->next;
+
+        }
+    }
+
+    return list1;
+
+}
+
 public:
     ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
-        vector<int>ans;
-        ListNode * temp=list1;
-        while(temp){
-            ans.push_back(temp->val);
-            temp=temp->next;
+        if(list1==NULL)return list2;
+        if(list2==NULL)return list1;
+
+        if(list1->val<=list2->val){
+            return solve(list1,list2);
+        }else{
+           return solve(list2,list1);
         }
-
-        temp=list2;
-        while(temp){
-            ans.push_back(temp->val);
-            temp=temp->next;
-        }
-        if(ans.empty())return NULL;
-        sort(ans.begin(),ans.end());
-        ListNode* head = new ListNode(ans[0]);
-        ListNode* temp1 = head;
-
-        for(int i = 1; i < ans.size(); i++){
-
-         temp1->next = new ListNode(ans[i]);
-
-        temp1 = temp1->next;
-        }
-     return head;
+        return NULL;
     }
 };
