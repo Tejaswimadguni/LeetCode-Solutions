@@ -457,6 +457,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2575-find-the-divisibility-array-of-a-string/) | Medium |
 | [2614-prime-in-diagonal](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3179-find-the-n-th-value-after-k-seconds/) | Medium |
 | [3270-find-the-key-of-the-numbers](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3270-find-the-key-of-the-numbers/) | Easy |
@@ -742,6 +743,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2221-find-triangular-sum-of-an-array](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2413-smallest-even-multiple](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2614-prime-in-diagonal](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2614-prime-in-diagonal/) | Easy |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3334-find-the-maximum-factor-score-of-array](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3334-find-the-maximum-factor-score-of-array/) | Medium |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
@@ -840,6 +842,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 ## Merge Sort
