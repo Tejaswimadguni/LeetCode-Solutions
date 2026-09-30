@@ -163,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3876-construct-uniform-parity-array-ii](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -226,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3889-mirror-frequency-distance](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3889-mirror-frequency-distance/) | Medium |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -280,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3606-coupon-code-validator](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3606-coupon-code-validator/) | Easy |
 | [3731-find-missing-elements](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -300,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3889-mirror-frequency-distance](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3889-mirror-frequency-distance/) | Medium |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -555,6 +559,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3620-network-recovery-pathways/) | Hard |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -589,6 +594,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3701-compute-alternating-sum](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3819-rotate-non-negative-elements](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3819-rotate-non-negative-elements/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -954,4 +960,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 <!---LeetCode Topics End-->
