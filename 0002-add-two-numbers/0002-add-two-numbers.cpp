@@ -9,33 +9,73 @@
  * };
  */
 class Solution {
-public:
-    ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
-        ListNode * temp1=l1;
-        ListNode * temp2=l2;
-        ListNode* dummy = new ListNode(0);
-        ListNode* tail = dummy;
-        int carry=0;
-        while(temp1!=NULL || temp2!=NULL || carry){
-            int sum=carry;
-            if(temp1){
-                sum+=temp1->val;
-                temp1=temp1->next;
 
-            }
+private:
+    ListNode* rev(ListNode* head) {
+        ListNode* curr = head;
+        ListNode* prev = NULL;
+        ListNode* next = NULL;
 
-            if(temp2){
-                sum+=temp2->val;
-                temp2=temp2->next;
-            }
-
-            carry=sum/10;
-
-            tail->next=new ListNode(sum%10);
-            tail=tail->next;
+        while (curr) {
+            next = curr->next;
+            curr->next = prev;
+            prev = curr;
+            curr = next;
         }
 
-        return dummy->next;
+        return prev;
+    }
 
+    ListNode* add(ListNode* l1, ListNode* l2) {
+        int carry = 0;
+        ListNode* ans = new ListNode(-1);
+        ListNode* hd = ans;
+        ListNode* t1 = l1;
+        ListNode* t2 = l2;
+
+        while (t1 && t2) {
+            int sum = t1->val + t2->val + carry;
+            int dig = sum % 10;
+            ListNode* nxt = new ListNode(dig);
+            ans->next = nxt;
+            carry = sum / 10;
+            t1 = t1->next;
+            t2 = t2->next;
+            ans = ans->next;
+        }
+
+        
+        
+            while (t2) {
+                int sum = t2->val + carry;
+                int dig = sum % 10;
+                ListNode* nxt = new ListNode(dig);
+                ans->next = nxt;
+                carry = sum / 10;
+                t2 = t2->next;
+                ans = ans->next;
+            }    
+            
+        
+            while (t1) {
+                int sum = t1->val + carry;
+                int dig = sum % 10;
+                ListNode* nxt = new ListNode(dig);
+                ans->next = nxt;
+                carry = sum / 10;
+                t1 = t1->next;
+                ans = ans->next;
+            }
+        
+        if (carry) {
+            ans->next = new ListNode(carry);
+        }
+
+        return hd->next;
+    }
+
+public:
+    ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
+        return add(l1,l2);
     }
 };
