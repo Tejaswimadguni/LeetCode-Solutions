@@ -9,25 +9,48 @@
  * };
  */
 class Solution {
+
+private:
+    ListNode* mid(ListNode*head){
+        ListNode*slow=head;
+        ListNode* fast=head->next;
+        while(fast && fast->next){
+            slow=slow->next;
+            fast=fast->next->next;
+        }
+
+        return slow;
+    }
+
+    ListNode* rev(ListNode* head){
+        ListNode*curr=head;
+        ListNode*prev=NULL;
+        ListNode*next=NULL;
+
+        while(curr){
+            next=curr->next;
+            curr->next=prev;
+            prev=curr;
+            curr=next;
+        }
+
+        return prev;
+    }
 public:
     bool isPalindrome(ListNode* head) {
-        string f,b;
-        stack<int>st;
-
-        ListNode* temp=head;
+        if(head->next==NULL)return true;
+        ListNode*middle=mid(head);
+        ListNode*half=rev(middle->next);
+        ListNode*temp=half;
+        ListNode*curu=head;
         while(temp){
-            st.push(temp->val);
-            f+=temp->val-'0';
+            if(curu->val!=temp->val)return false;
+            curu=curu->next;
             temp=temp->next;
         }
 
 
-        if(st.empty())return true;
-        while(!st.empty()){
-            b+=st.top()-'0';
-            st.pop();
-        }
+    return true;
 
-        return f==b;
     }
 };
