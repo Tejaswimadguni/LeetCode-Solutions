@@ -11,30 +11,23 @@
 class Solution {
 public:
     bool isPalindrome(ListNode* head) {
+        string f,b;
         stack<int>st;
+
         ListNode* temp=head;
-        int n=0;
         while(temp){
-            n++;
-            temp=temp->next;
-        }
-        n=n/2;
-
-        temp=head;
-        if(n==0)return head;
-        while(n--){
             st.push(temp->val);
+            f+=temp->val-'0';
             temp=temp->next;
         }
 
-        while(temp){
-            if(st.top()==temp->val){
-                st.pop();
-            }
 
-            temp=temp->next;
+        if(st.empty())return true;
+        while(!st.empty()){
+            b+=st.top()-'0';
+            st.pop();
         }
 
-        return st.empty();
+        return f==b;
     }
 };
