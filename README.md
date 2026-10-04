@@ -370,6 +370,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0443-string-compression](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0443-string-compression/) | Medium |
 | [0500-keyboard-row](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0500-keyboard-row/) | Easy |
 | [0567-permutation-in-string](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0567-permutation-in-string/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0784-letter-case-permutation](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0784-letter-case-permutation/) | Medium |
 | [0796-rotate-string](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0796-rotate-string/) | Easy |
 | [0984-string-without-aaa-or-bbb](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0984-string-without-aaa-or-bbb/) | Medium |
@@ -501,6 +502,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0120-triangle](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0120-triangle/) | Medium |
 | [0486-predict-the-winner](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0877-stone-game](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -516,6 +518,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0179-largest-number/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0984-string-without-aaa-or-bbb](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0984-string-without-aaa-or-bbb/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -611,6 +614,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0445-add-two-numbers-ii](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0739-daily-temperatures](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -968,6 +972,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Ordered Set
 | Problem Name | Difficulty |
