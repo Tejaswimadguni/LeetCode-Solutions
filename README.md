@@ -374,6 +374,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0678-valid-parenthesis-string](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0784-letter-case-permutation](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0784-letter-case-permutation/) | Medium |
 | [0796-rotate-string](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0796-rotate-string/) | Easy |
+| [0856-score-of-parentheses](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0984-string-without-aaa-or-bbb](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0984-string-without-aaa-or-bbb/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
@@ -618,6 +619,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0739-daily-temperatures](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
+| [0856-score-of-parentheses](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
@@ -977,6 +979,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0856-score-of-parentheses](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Ordered Set
 | Problem Name | Difficulty |
