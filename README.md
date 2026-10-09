@@ -340,6 +340,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0876-middle-of-the-linked-list](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -389,6 +390,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [1927-sum-game](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1927-sum-game/) | Medium |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2194-cells-in-a-range-on-an-excel-sheet/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
@@ -532,6 +534,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1833-maximum-ice-cream-bars](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1927-sum-game](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1927-sum-game/) | Medium |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -636,6 +639,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 ## Monotonic Stack
@@ -997,6 +1001,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1021-remove-outermost-parentheses](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
