@@ -624,6 +624,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0085-maximal-rectangle](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0143-reorder-list](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0143-reorder-list/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0155-min-stack](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0155-min-stack/) | Medium |
 | [0224-basic-calculator](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0224-basic-calculator/) | Hard |
 | [0232-implement-queue-using-stacks](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -1018,6 +1019,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 ## Range Minimum/Maximum Query
 | Problem Name | Difficulty |
