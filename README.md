@@ -348,6 +348,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
+| [2000-reverse-prefix-of-word](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -401,6 +402,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [2000-reverse-prefix-of-word](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2194-cells-in-a-range-on-an-excel-sheet/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
@@ -658,6 +660,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
+| [2000-reverse-prefix-of-word](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 ## Monotonic Stack
