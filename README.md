@@ -394,6 +394,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
 | [1796-second-largest-digit-in-a-string](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [1927-sum-game](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1927-sum-game/) | Medium |
@@ -522,6 +523,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0678-valid-parenthesis-string](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0877-stone-game](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
@@ -653,6 +655,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
