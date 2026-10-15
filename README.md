@@ -107,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1995-count-special-quadruplets](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1995-count-special-quadruplets/) | Easy |
+| [2073-time-needed-to-buy-tickets](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -616,6 +617,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
+| [2073-time-needed-to-buy-tickets](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
@@ -982,6 +984,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0232-implement-queue-using-stacks](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
+| [2073-time-needed-to-buy-tickets](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
