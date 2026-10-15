@@ -136,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2778-sum-of-squares-of-special-elements](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2908-minimum-sum-of-mountain-triplets-i/) | Easy |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
@@ -217,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2516-take-k-of-each-character-from-left-and-right/) | Medium |
 | [2540-minimum-common-value](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [2615-sum-of-distances](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2615-sum-of-distances/) | Medium |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
@@ -990,6 +992,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -1058,4 +1061,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1472-design-browser-history](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1472-design-browser-history/) | Medium |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 <!---LeetCode Topics End-->
