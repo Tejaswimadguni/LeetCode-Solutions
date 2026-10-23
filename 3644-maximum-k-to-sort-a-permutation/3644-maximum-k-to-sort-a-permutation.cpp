@@ -1,19 +1,11 @@
 class Solution {
 public:
     int sortPermutation(vector<int>& nums) {
-        vector<int>num=nums;
-        vector<int>el;
-        sort(num.begin(),num.end());
+        int ans=-1;
         for(int i=0;i<nums.size();i++){
-            if(num[i]!=nums[i])el.push_back(nums[i]);
-        }
-        if(el.empty())return 0;
-        int ans=el[0];
-
-        for(int i=1;i<el.size();i++){
-            ans= ans &= el[i]; 
+            if(nums[i]!=i) ans &=nums[i];
         }
 
-        return ans;
+        return max(ans,0);
     }
 };
