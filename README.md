@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0852-peak-index-in-a-mountain-array](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0867-transpose-matrix](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0867-transpose-matrix/) | Easy |
 | [0877-stone-game](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0877-stone-game/) | Medium |
+| [0941-valid-mountain-array](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0941-valid-mountain-array/) | Easy |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1019-next-greater-node-in-linked-list](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
