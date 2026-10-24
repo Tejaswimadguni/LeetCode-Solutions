@@ -413,6 +413,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2000-reverse-prefix-of-word](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2194-cells-in-a-range-on-an-excel-sheet/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
+| [2409-count-days-spent-together](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2409-count-days-spent-together/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2516-take-k-of-each-character-from-left-and-right/) | Medium |
@@ -486,6 +487,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2119-a-number-after-a-double-reversal](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2165-smallest-value-of-the-rearranged-number/) | Medium |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
+| [2409-count-days-spent-together](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2409-count-days-spent-together/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2469-convert-the-temperature](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2469-convert-the-temperature/) | Easy |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2481-minimum-cuts-to-divide-a-circle/) | Easy |
