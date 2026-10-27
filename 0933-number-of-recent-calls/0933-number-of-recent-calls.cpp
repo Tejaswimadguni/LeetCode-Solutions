@@ -2,7 +2,7 @@ class RecentCounter {
 
 public:
     
-    vector<int>arr;
+    queue<int>arr;
     int minn,maxx;
     RecentCounter() {
         minn=0;
@@ -10,14 +10,12 @@ public:
     }
     
     int ping(int t) {
-        arr.push_back(t);
+        arr.push(t);
         minn=t-3000;
         maxx=t;
-        int reqst=0;
-        for(int i=0;i<arr.size();i++){
-            if(arr[i]>=minn && arr[i]<=maxx)reqst++;
-        }
-        return reqst;
+        while(!arr.empty() && arr.front()<minn)arr.pop();
+
+        return arr.size();
     }
 };
 
