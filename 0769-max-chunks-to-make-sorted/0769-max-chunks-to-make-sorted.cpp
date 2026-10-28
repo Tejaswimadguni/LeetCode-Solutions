@@ -1,19 +1,25 @@
 class Solution {
 public:
     int maxChunksToSorted(vector<int>& arr) {
-        
-        vector<int>rsum;
-        int s=0;
-    for(int i:arr){
-        s+=i;
-        rsum.push_back(s);
-    }
-    int ans=0;
-        for(int i=0;i<arr.size();i++){
-            int summ=(i*(i+1))/2;
-            if(rsum[i]==summ)ans++;
+        stack<int>st;
+        int i=0;
+        while(i<arr.size()){
+            if(st.empty() || arr[i]>=st.top()){
+                st.push(arr[i]);
+                i++;
+                continue;
+            }
+            else{
+                int num=st.top();
+                while(!st.empty() && st.top()>arr[i]){
+                    st.pop();
+                }
+                st.push(num);
+                
+            }
+            i++;
+            
         }
-
-        return ans;
+        return st.size();
     }
 };
