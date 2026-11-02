@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0414-third-maximum-number](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0414-third-maximum-number/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0456-132-pattern](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0456-132-pattern/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0486-predict-the-winner](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0500-keyboard-row](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0500-keyboard-row/) | Easy |
@@ -283,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0389-find-the-difference](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0414-third-maximum-number](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0414-third-maximum-number/) | Easy |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0769-max-chunks-to-make-sorted](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
@@ -471,6 +473,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0415-add-strings](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0415-add-strings/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0486-predict-the-winner](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
