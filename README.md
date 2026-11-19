@@ -135,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2540-minimum-common-value](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2575-find-the-divisibility-array-of-a-string/) | Medium |
 | [2580-count-ways-to-group-overlapping-ranges](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2580-count-ways-to-group-overlapping-ranges/) | Medium |
@@ -300,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2165-smallest-value-of-the-rearranged-number/) | Medium |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2475-number-of-unequal-triplets-in-array/) | Easy |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2580-count-ways-to-group-overlapping-ranges](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2580-count-ways-to-group-overlapping-ranges/) | Medium |
 | [2733-neither-minimum-nor-maximum](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -578,6 +580,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3689-maximum-total-subarray-value-i](https://github.com/Tejaswimadguni/LeetCode-Solutions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
